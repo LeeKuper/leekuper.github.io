@@ -99,10 +99,10 @@ http://a0bn5xro.rostelekom.xyz/iptv/9HDQFHY4ABB7AQ/1064/index.m3u8
 http://a0bn5xro.rostelekom.xyz/iptv/9HDQFHY4ABB7AQ/910/index.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge
 http://cdn-lb.iptv2022.com/p/yTu07DQgzvvqOAK7DeakQw,1674890009/streaming/bridgetv/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge Classic
-http://cdn-lb.iptv2022.com/p/3ApAmZSif5Nvbb1z8KkdfA,1674889967/streaming/br_classic/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge Classic
 https://livetv.mylifeisgood.ml/channels/bridgeclassictv.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge Classic
+http://cdn-lb.iptv2022.com/p/3ApAmZSif5Nvbb1z8KkdfA,1674889967/streaming/br_classic/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge Deluxe
 http://cdn-lb.iptv2022.com/p/xT-s6WsWd8WFRP1-h-tfnQ,1674889907/streaming/br_delux/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge Hits
@@ -121,10 +121,10 @@ https://livetv.mylifeisgood.ml/channels/bridgerushittv.m3u8
 https://livetv.mylifeisgood.ml/channels/bridgefreshya.m3u8
 #EXTINF:-1 group-title="Музыкальные",Bridge Русский хит
 http://cdn-lb.iptv2022.com/p/cynQYtxboLC84JCMQb90Xw,1674890083/streaming/br_rushit/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Музыкальные",Bridge Шлягер
-http://cdn-lb.iptv2022.com/p/FoOLGbj8u7eaYDyBKJqJng,1674889827/streaming/br_shlyager/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка",Bridge Шлягер
 https://livetv.mylifeisgood.ml/channels/bridgetvshlyager.m3u8
+#EXTINF:-1 group-title="Музыкальные",Bridge Шлягер
+http://cdn-lb.iptv2022.com/p/FoOLGbj8u7eaYDyBKJqJng,1674889827/streaming/br_shlyager/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="XXX",Brunette
 http://live.adultiptv.net/brunette.m3u8
 #EXTINF:-1 group-title="Детские",Cartoon Network
@@ -713,10 +713,10 @@ http://fs2.persik.by/464778/index.m3u8
 http://fs1.persik.by/487612/index.m3u8
 #EXTINF:-1 group-title="Региональные",Арис 24
 http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-#EXTINF:-1 group-title="Кино",Арсенал
-http://185.23.80.26:8080/lb/Arsenal_HD/index.m3u8
 #EXTINF:-1 ,Арсенал
 http://45.143.108.104:80/arsenal/index.m3u8
+#EXTINF:-1 group-title="Кино",Арсенал
+http://185.23.80.26:8080/lb/Arsenal_HD/index.m3u8
 #EXTINF:-1 group-title="Региональные",Архыз 24
 http://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Региональные",Астрахань 24
@@ -731,10 +731,10 @@ http://37.17.12.124:8901/play/a005
 https://flu.vtv.by/bt4-non-by/index.m3u8
 #EXTINF:-1 group-title="Разные",Беларусь РТР
 http://37.17.12.124:8901/play/a008
-#EXTINF:-1 group-title="Беларусь",БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 ,БелРос
 http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1 group-title="Беларусь",БелРос
+http://live2.mediacdn.ru/sr1/tro/playlist_1.5M.m3u8
 #EXTINF:-1 group-title="Кино",Блокбастер
 http://185.23.80.26:8080/lb/Blockbaster/index.m3u8
 #EXTINF:-1 group-title="Беларусь",Бобруйск 360
@@ -745,10 +745,10 @@ http://185.23.80.26:8080/lb/BolshayaAziya/index.m3u8
 https://video1.tizam.cc/films/Private-Reality-18-Double.mp4
 #EXTINF:-1 group-title="Региональные",Ветта 24 Пермь
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Вместе-РФ
-http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Вместе-РФ
 http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия",Вместе-РФ
+http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 #EXTINF:-1 ,Военное кино
 http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/18072/index.m3u8
 #EXTINF:-1 ,Всё ТВ
@@ -825,12 +825,12 @@ https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
 https://video2.tizam.cc/files/2228366/zazel___the_scent_of_love.___zazel__aromat_lyubvi..mp4
 #EXTINF:-1 group-title="XXX",Замок анальных утёх
 https://video1.tizam.cc/vk/zamok.mp4
-#EXTINF:-1 group-title="Россия",Звезда
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 ,Звезда
 http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
 #EXTINF:-1 ,Звезда
 http://s18209.cdn.ngenix.net/hls/CH_R03_ZVEZDA/playlist.m3u8
+#EXTINF:-1 group-title="Россия",Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия",Звезда Плюс
 http://146.158.0.56:80/ZvezdaPlus/index.m3u8
 #EXTINF:-1 ,Звязда HD
@@ -879,10 +879,10 @@ http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/18069/index.m3u8
 http://kino-1.catcast.tv/content/38617/index.m3u8
 #EXTINF:-1 ,Кино 2 HD
 http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/18070/index.m3u8
-#EXTINF:-1 group-title="Кино",Кино ТВ
-http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
 #EXTINF:-1 ,Кино ТВ
 http://31.148.48.15/Kino_TV/index.m3u8
+#EXTINF:-1 group-title="Кино",Кино ТВ
+http://185.23.80.26:8080/lb/Kino_TV/index.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2506.png",Кино ТВ HD
 https://livetv.mylifeisgood.ml/channels/kinotvst.m3u8
 #EXTINF:-1 ,Кино-антистресс
@@ -991,10 +991,10 @@ http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/13044/index.m3u8
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2078.png",Мир 24
 https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Россия",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 ,Мир Белогорья
 http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
 #EXTINF:-1 group-title="Региональные",Мордовия 24
@@ -1023,10 +1023,10 @@ http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/11067/index.m3u8
 https://video1.tizam.cc/films/najti_i_trahnut.mp4
 #EXTINF:-1 group-title="Познавательные",Нано
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="Россия",Настоящее время
-https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/RFE-TVMC05_1080/chunklist.m3u8
 #EXTINF:-1 ,Настоящее время
 http://91.233.215.250:7272/J8BymSQSWStHrzm
+#EXTINF:-1 group-title="Россия",Настоящее время
+https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/RFE-TVMC05_1080/chunklist.m3u8
 #EXTINF:-1 ,Наука
 http://cdntv.online/high/tdfac2yk5h/343.m3u8
 #EXTINF:-1 group-title="Кино",Наш Кинопоказ
@@ -1051,18 +1051,18 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 http://93.125.34.51:30002/Nostalgia/index.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
 http://176.74.80.162:8099/HCT/index.m3u8
-#EXTINF:-1 ,НТВ
+#EXTINF:-1 group-title="НТВp",НТВ 0
 http://185.23.80.26:8080/lb/NTV/index.m3u8
-#EXTINF:-1 ,НТВ +1
+#EXTINF:-1 group-title="НТВp",НТВ +1
 http://cdn.ntv.ru/ntv1_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ +2
+#EXTINF:-1 group-title="НТВp",НТВ +2
 http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Россия",НТВ HD
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
-#EXTINF:-1 ,НТВ HD
+#EXTINF:-1 group-title="НТВp",НТВ HD 1
 http://cdn.ntv.ru/ntv0_hd/index.m3u8
-#EXTINF:-1 ,НТВ HD
+#EXTINF:-1 group-title="НТВp",НТВ HD 2
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="НТВp",НТВ HD 3
+https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 ,НТВ Америка
 http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 group-title="Кино",НТВ Право
@@ -1071,10 +1071,10 @@ https://livetv.mylifeisgood.ml/channels/ntvpravo24.m3u8
 https://livetv.mylifeisgood.ml/channels/ntvserial24.m3u8
 #EXTINF:-1 group-title="Женские",НТВ Стиль
 https://livetv.mylifeisgood.ml/channels/ntvstyle24.m3u8
-#EXTINF:-1 group-title="Кино",НТВ Хит
-https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
 #EXTINF:-1 ,НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Кино",НТВ Хит
+https://livetv.mylifeisgood.ml/channels/ntvhit24.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НТС FHD
 http://194.143.148.28:8080/NTS/mpegts
 #EXTINF:-1 group-title="Основные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14862/logo_256_1680258355.png",Общественное достояние
@@ -1103,12 +1103,12 @@ https://pkvc-hls4.cdnvideo.ru/Poehali/smil:Poehali.smil/chunklist_b2628000_slru.
 http://81.177.197.13:8000/play/a001/index.m3u8
 #EXTINF:-1 group-title="1stP",Первый канал 3
 http://185.23.80.26:8080/lb/Pervyj/index.m3u8
+#EXTINF:-1 group-title="1stP",Первый канал HD +4
+http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1 group-title="1stP",Первый канал HD 4
 https://edge2.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
 #EXTINF:-1 group-title="1stP",Первый канал HD 5
 http://edge4.1internet.tv/dash-live12/streams/1tv/1tvdash.mpd
-#EXTINF:-1 group-title="1stP",Первый канал HD +4
-http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
 #EXTINF:-1  tvg-logo="https://online-red.com/images/tv/one-hd.png",Первый Музыкальный BY
 http://rtmp.one.by:1200
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
@@ -1145,10 +1145,10 @@ http://185.23.80.26:8080/lb/Prodvizhenie/index.m3u8
 https://iptvplay.catcast.tv/content/39161/index.m3u8?
 #EXTINF:-1 group-title="Познавательные",Просвещение
 https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Россия",Пятый канал
-http://185.23.80.26:8080/lb/Pyatyj/index.m3u8
 #EXTINF:-1 ,Пятый канал
 https://livetv.mylifeisgood.ml/channels/5tv.m3u8
+#EXTINF:-1 group-title="Россия",Пятый канал
+http://185.23.80.26:8080/lb/Pyatyj/index.m3u8
 #EXTINF:-1 ,Пятый Канал
 http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 group-title="Разные",Раменское ТВ HD
@@ -1171,10 +1171,10 @@ http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/5053/index.m3u8
 http://185.23.80.25:8080/lb/Rossiya1/index.m3u8
 #EXTINF:-1 group-title="Новости",РОССИЯ 1
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Россия",Россия 1 HD
-https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 #EXTINF:-1 ,Россия 1 HD
 https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="Россия",Россия 1 HD
+https://livetv.mylifeisgood.ml/channels/russia1.m3u8
 #EXTINF:-1 ,Россия 24
 https://livetv.mylifeisgood.ml/channels/russia24.m3u8
 #EXTINF:-1 group-title="Россия",Россия К
@@ -1193,10 +1193,10 @@ http://37.29.23.129:4000/play/a03o/index.m3u8
 http://94.230.240.12:80/rusbestseller/index.m3u8
 #EXTINF:-1 ,Русский детектив
 http://37.29.23.129:4000/play/a03n/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы",Русский Иллюзион
-http://86.57.178.105:10823
 #EXTINF:-1 ,Русский Иллюзион
 http://93.125.34.51:30002/Russkij_illuzion/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы",Русский Иллюзион
+http://86.57.178.105:10823
 #EXTINF:-1 ,Русский роман
 http://37.29.23.129:4000/play/a03m/index.m3u8
 #EXTINF:-1 group-title="Основные",Русский Север HD
@@ -1209,10 +1209,10 @@ http://cdn-lb.iptv2022.com/p/VVwN19_ebeKmxxMz-CwXiw,1678474702/streaming/topspb/
 https://livetv.mylifeisgood.ml/channels/foxlife.m3u8
 #EXTINF:-1 group-title="Региональные",Саратов 24
 http://saratov24.tv:80/online/playlist.php
-#EXTINF:-1 group-title="Развлекательные",Сарафан
-http://86.57.178.105:10822
 #EXTINF:-1 ,Сарафан
 http://2f301a5d.russtv.net/iptv/FXWURLNQSLQVL7/748/index.m3u
+#EXTINF:-1 group-title="Развлекательные",Сарафан
+http://86.57.178.105:10822
 #EXTINF:-1 ,Свое ТВ
 http://svoetv.mediacdn.ru/cdn/svoetv/playlist_sdmid.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14106/logo_256_1673861735.png",Симферополь 24 HD
@@ -1243,12 +1243,12 @@ https://video1.tizam.cc/old_films/Son-Felice-nel-Panino.mp4
 https://bl.uma.media/live/126866/HLS/6866944_4/1/1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://antifriztv.com/storage/images/pack_logos/51de7a32b761165b4e7ac15866b2af76.png",Спортивный HD
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="Спортивные",Старт
-http://cdn-lb.iptv2022.com/p/Am6WRx89s1VIXZ_gE_wk7g,1673345505/streaming/start/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Спорт",Старт
-https://livetv.mylifeisgood.ml/channels/startlive.m3u8
 #EXTINF:-1  tvg-logo="https://iptvxcdn.ml/start.png",Старт
 https://livetv.mylifeisgood.ml/channels/startlive
+#EXTINF:-1 group-title="Спорт",Старт
+https://livetv.mylifeisgood.ml/channels/startlive.m3u8
+#EXTINF:-1 group-title="Спортивные",Старт
+http://cdn-lb.iptv2022.com/p/Am6WRx89s1VIXZ_gE_wk7g,1673345505/streaming/start/324/1/tracks-v3a1/mono.m3u8
 #EXTINF:-1 group-title="Разные",СТВ (Беларусь)
 http://80.94.225.126:8080/STV/mono.m3u8
 #EXTINF:-1 ,СТВ HD
@@ -1271,10 +1271,10 @@ http://138.201.67.145:8081/stskids/index.m3u8
 http://176.74.80.162:8099/CTCLove/index.m3u8
 #EXTINF:-1 group-title="Развлекательные",СТС Love
 http://cdn-lb.iptv2022.com/p/7YHaakvlqmFMZS4UYSIBIQ,1677066744/streaming/stsloveott/324/1/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="Кино",Суббота
-https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 ,Суббота
 https://livetv.mylifeisgood.ml/channels/subbota
+#EXTINF:-1 group-title="Кино",Суббота
+https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",Суббота HD
 https://bl.uma.media/live/317845/HLS/317845_3/1/1/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://epg.it999.ru/img2/2288.png",Суббота! HD
@@ -1323,10 +1323,10 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 https://livetv.mylifeisgood.ml/channels/tntmusicru.m3u8
 #EXTINF:-1 ,ТНТ4
 https://livetv.mylifeisgood.ml/channels/tnt4.m3u8
-#EXTINF:-1 group-title="Россия",ТНТ4 HD
-https://bl.uma.media/live/317849/HLS/4614144_3/1647494495/6f25a13cb69de84821901352d0815304/playlist.m3u8
 #EXTINF:-1 group-title="Развлекательные",ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/317849_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="Россия",ТНТ4 HD
+https://bl.uma.media/live/317849/HLS/4614144_3/1647494495/6f25a13cb69de84821901352d0815304/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Тонус ТВ
 http://185.23.80.26:8080/lb/Zdorove/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Точка Отрыва
