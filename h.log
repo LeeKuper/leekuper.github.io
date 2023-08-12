@@ -811,10 +811,26 @@ http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1 group-title="Кино",НСТ
 http://176.74.80.162:8099/HCT/index.m3u8
+#EXTINF:-1 group-title="p2",НТВ
+http://91.220.135.165:81/4/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 group-title="p2",НТВ
+http://77.240.45.106:3333/play/a0at
+#EXTINF:-1 group-title="p2",НТВ
+http://188.143.128.24:30000/play/a4/index.m3u8
+#EXTINF:-1 group-title="p2",НТВ
+rtmp://178.159.112.198//ntv
+#EXTINF:-1 group-title="p2",НТВ (+2)
+http://77.240.45.106:3333/play/a07g
 #EXTINF:-1 group-title="НТВp",НТВ +1
 http://cdn.ntv.ru/ntv1_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="НТВp",НТВ +2
 http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="p2",НТВ HD
+http://persik.by/stream/1832/161161/10726.m3u8
+#EXTINF:-1 group-title="p2",НТВ HD
+http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
+#EXTINF:-1 group-title="p2",НТВ HD
+rtmp://178.159.112.198//ntv_hd
 #EXTINF:-1 group-title="НТВp",НТВ HD 1
 http://cdn.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 group-title="НТВp",НТВ HD 2
@@ -823,8 +839,24 @@ https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1 ,НТВ Америка
 http://4.59.210.197:8815/udp/127.0.0.1:6003
+#EXTINF:-1 group-title="p2",НТВ МИР
+https://tbs01-edge11.itdc.ge/ntvmir/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="p2",НТВ Право
+http://streamer1.ruslanatv.ru/russia/ntv_pravo_2023/playlist.m3u8
+#EXTINF:-1 group-title="p2",НТВ Право
+http://89.104.114.7:8080/ntv_pravo/index.m3u8
 #EXTINF:-1 ,НТВ Хит
 https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="p2",НТВ Хит
+http://streamer1.ruslanatv.ru/russia/ntv_hit_2023/playlist.m3u8
+#EXTINF:-1 group-title="p2",НТВ Хит
+http://77.240.45.106:3333/play/a094
+#EXTINF:-1 group-title="p2",НТВ-Беларусь HD
+http://persik.by/stream/1832/161161/11183.m3u8
+#EXTINF:-1 group-title="p2",НТВ-Мир
+http://streamer1.ruslanatv.ru/russia/ntv_mir_2023/playlist.m3u8
+#EXTINF:-1 group-title="p2",НТВ-Мир
+https://sc.id-tv.kz:443/NTV_34_35.m3u8
 #EXTINF:-1 group-title="Кино и сериалы",НТС FHD
 http://194.143.148.28:8080/NTS/mpegts
 #EXTINF:-1 group-title="Основные" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/14862/logo_256_1680258355.png",Общественное достояние
@@ -843,6 +875,28 @@ http://s18209.cdn.ngenix.net/hls/CH_R01_OTR/playlist.m3u8
 https://iptvplay.catcast.tv/content/38821/index.m3u8?
 #EXTINF:-1 group-title="1stP",Первый HD 2
 http://81.177.197.13:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="p2",Первый городской (Кривой Рог)
+http://portal.ott.pink/watch/121/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
+#EXTINF:-1 group-title="p2",Первый канал
+rtmp://178.159.112.198//pervyj
+#EXTINF:-1 group-title="p2",Первый канал
+http://188.143.128.24:30000/play/a1/index.m3u8
+#EXTINF:-1 group-title="p2",Первый канал
+http://77.240.45.106:3333/play/a0aq
+#EXTINF:-1 group-title="p2",Первый канал
+https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
+#EXTINF:-1 group-title="p2",ПЕРВЫЙ КАНАЛ
+http://persik.by/stream/1832/161161/8.m3u8
+#EXTINF:-1 group-title="p2",ПЕРВЫЙ КАНАЛ
+https://tbs01-edge11.itdc.ge/ort/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="p2",Первый канал HD
+http://77.240.45.106:3333/play/a08j
+#EXTINF:-1 group-title="p2",Первый канал Евразия
+http://77.240.45.106:3333/play/a03b
+#EXTINF:-1 group-title="p2",Первый музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="p2",Первый музыкальный
+http://persik.by/stream/1832/161161/10024.m3u8
 #EXTINF:-1  tvg-logo="https://online-red.com/images/tv/one-hd.png",Первый Музыкальный BY
 http://rtmp.one.by:1200
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
@@ -891,12 +945,42 @@ http://flu.ttk.mx:9090/REN_TV/index.m3u8?token=orh6o
 http://138.201.67.145:8081/retro/index.m3u8
 #EXTINF:-1 ,Романтичное HD
 http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/5053/index.m3u8
+#EXTINF:-1 group-title="p2",Россия 1
+http://188.143.128.24:30000/play/a2/index.m3u8
+#EXTINF:-1 group-title="p2",Россия 1
+http://77.240.45.106:3333/play/a0ar
 #EXTINF:-1 group-title="Новости",РОССИЯ 1
 http://45.159.74.13:80/Rossia1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="p2",РОССИЯ 1
+http://195.3.252.117:8001/play/a00d
+#EXTINF:-1 group-title="p2",РОССИЯ 1
+http://persik.by/stream/1832/161161/9.m3u8
 #EXTINF:-1 ,Россия 1 HD
 https://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/variant.m3u8
+#EXTINF:-1 group-title="p2",Россия 1 HD
+http://mfe01.cliptv.az/dash/Rossiya_1_HDhfhf937456.ism/playlist.mpd
+#EXTINF:-1 group-title="p2",Россия 1 HD
+http://mfe01.cliptv.az/dash/Rossiya_24_SDgjg244.ism/playlist.mpd
+#EXTINF:-1 group-title="p2",Россия 24
+http://188.143.128.24:30000/play/a7/index.m3u8
+#EXTINF:-1 group-title="p2",РОССИЯ 24
+http://195.3.252.117:8001/play/a00e
+#EXTINF:-1 group-title="p2",Россия HD
+rtmp://178.159.112.198//russia_hd
+#EXTINF:-1 group-title="p2",Россия HD
+http://77.240.45.106:3333/play/a09c
+#EXTINF:-1 group-title="p2",Россия К
+http://77.240.45.106:3333/play/a0a2
+#EXTINF:-1 group-title="p2",Россия К
+http://persik.by/stream/1832/161161/140.m3u8
+#EXTINF:-1 group-title="p2",РОССИЯ К
+https://tbs01-edge11.itdc.ge/russiaculture/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Новости",Россия РБК
 https://online-video.rbc.ru/online/rbctvhd_224p/index.m3u8?e=e8&t=EAfWAL
+#EXTINF:-1 group-title="p2",Россия РТР
+https://sc.id-tv.kz:443/RossiyaRTR_34_35.m3u8
+#EXTINF:-1 group-title="p2",Россия РТР
+http://persik.by/stream/1832/161161/700.m3u8
 #EXTINF:-1 group-title="Фильмовые",Ростов-папа HD
 http://cdn-lb.iptv2022.com/p/U3e8ddbgZbENwiFCztp8Rg,1681557125/streaming/rostov-papa/324/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Русские сериалы
