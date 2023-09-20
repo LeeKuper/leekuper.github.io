@@ -13,7 +13,7 @@ http://85.234.33.64/stream/c11.m3u8
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 ,1HD
 http://91.247.68.229:8000/play/1HD/index.m3u8
-#EXTINF:-1 ,2x2 4
+#EXTINF:-1 ,2x2
 https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
 #EXTINF:-1 ,2x2 HD
 https://bl.uma.media/live/317805/HLS/4614144_3/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
@@ -377,6 +377,8 @@ http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/7260/index.m3u8
 http://a0000.otttv.pw/iptv/C47MBVH7DHZHRK/7261/index.m3u8
 #EXTINF:-1 ,Kinoshka Russian HD
 http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/18058/index.m3u8
+#EXTINF:-1 ,Kion Хит OTT
+http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/48742/hlsx/pl.m3u8
 #EXTINF:-1 ,KLI CCCP HD
 http://czrb8vng.ottclub.xyz/iptv/VK3AX8MG8ZGVY9/18175/index.m3u8
 #EXTINF:-1 ,KLI Russian HD
@@ -857,6 +859,8 @@ http://77.240.45.106:3333/play/a07g
 http://cdn.ntv.ru/ntv1_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ +2
 http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ FHD OTT
+http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/49336/hlsx/pl.m3u8
 #EXTINF:-1 ,НТВ HD
 http://persik.by/stream/1832/161161/10726.m3u8
 #EXTINF:-1 ,НТВ HD
@@ -873,6 +877,10 @@ http://cdn.ntv.ru/ntv0_hd/index.m3u8
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ HD 3
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+#EXTINF:-1 ,НТВ HD OTT
+http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/605/hlsx/pl.m3u8
+#EXTINF:-1 ,НТВ OTT
+http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/3/hlsx/pl.m3u8
 #EXTINF:-1 ,НТВ Америка
 http://4.59.210.197:8815/udp/127.0.0.1:6003
 #EXTINF:-1 ,НТВ Мир
@@ -973,6 +981,8 @@ http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 http://77.240.45.106:3333/play/a0b7
 #EXTINF:-1 ,Пятый канал 5(+2)
 http://77.240.45.106:3333/play/a08f
+#EXTINF:-1 ,Пятый канал OTT
+http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/7/hlsx/pl.m3u8
 #EXTINF:-1 ,Пятый канал s0
 http://188.143.128.24:30000/play/a5/index.m3u8
 #EXTINF:-1 ,Радость моя
@@ -1107,8 +1117,14 @@ http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 ,ТВЦ
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
+#EXTINF:-1 ,ТВЦ (+4) OTT
+http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/45263/hlsx/pl.m3u8
+#EXTINF:-1 ,ТВЦ HD OTT
+http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/38572/hlsx/pl.m3u8
 #EXTINF:-1 ,ТВЦ International
 https://nl01.spr24.net/1982/mpegts?token=brm93nV8tUcCAN
+#EXTINF:-1 ,ТВЦ OTT
+http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/10/hlsx/pl.m3u8
 #EXTINF:-1 ,ТВЦ s0
 rtmp://178.159.112.198//tvc
 #EXTINF:-1 ,ТВЦ s1
