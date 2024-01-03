@@ -1191,7 +1191,7 @@ http://stream0.tv41.ru/live.m3u8
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1 ,Ю
 http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
-#EXTINF:-1 ,1
+#EXTINF:-1 ,Первый 1
 http://free.cvmtv.site/OPT1?token=live
 #EXTINF:-1  tvg-logo="https://picon.ml/pervy-pl4.png",1 (MSK+4)
 https://cdn11.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
