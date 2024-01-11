@@ -1191,7 +1191,7 @@ http://stream0.tv41.ru/live.m3u8
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1 ,Ю
 http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
-#EXTINF:-1 ,Первый 1
+#EXTINF:-1 ,1
 http://free.cvmtv.site/OPT1?token=live
 #EXTINF:-1  tvg-logo="https://picon.ml/pervy-pl4.png",1 (MSK+4)
 https://cdn11.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
@@ -1275,3 +1275,117 @@ http://free.cvmtv.site/Match?token=live
 http://live-otronline.cdnvideo.ru/otr-decklink/otr_ru_720p/chunklist_DVR.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/5-tv.svg/150px-5-tv.svg.png",Пятый Канал Russia
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
+#EXTINF:-1 ,2x2 (720p)
+https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 ,7 TV
+http://moobl.ru/hls/7tv.m3u8
+#EXTINF:-1 ,8TV (1080p)
+http://89.254.128.5:22280/8tv_hd/index.m3u8
+#EXTINF:-1 ,CGTN Русский (576p)
+https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
+#EXTINF:-1 ,CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Euronews по-русски [Not 24/7]
+https://ythls.armelin.one/channel/UCFzJjgVicCtFxJ5B0P_ei8A.m3u8
+#EXTINF:-1 ,Fox
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 ,Pro100TV
+https://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+#EXTINF:-1 ,TV XXI
+http://176.74.80.162:8099/TVXXI/index.m3u8
+#EXTINF:-1 ,Viju TV1000
+http://82.209.197.187:8080/udp/239.0.100.141:1234
+#EXTINF:-1 ,viju Русское кино
+http://82.209.197.187:8080/udp/239.0.100.82:1234
+#EXTINF:-1 ,Дождь
+http://moobl.ru/hls/Dozhd.m3u8
+#EXTINF:-1 ,Дождь (1080p)
+https://1527562093.rsc.cdn77.org/transcode/ngrp:ses_all/playlist.m3u8
+#EXTINF:-1 ,Дождь HD
+http://moobl.ru/hls/Dozhd_hd.m3u8
+#EXTINF:-1 ,Домашний
+http://moobl.ru/hls/Domashniy.m3u8
+#EXTINF:-1 ,Звезда
+https://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:-1 ,Звезда HD
+http://moobl.ru/hls/Zvezda_HD.m3u8
+#EXTINF:-1 ,Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8
+#EXTINF:-1 ,Звезда Плюс HD
+http://moobl.ru/hls/Zvezda_plus_HD.m3u8
+#EXTINF:-1 ,Известия
+http://moobl.ru/hls/Izvestia.m3u8
+#EXTINF:-1 ,Известия HD
+http://moobl.ru/hls/Izvestia_hd.m3u8
+#EXTINF:-1 ,История
+http://moobl.ru/hls/Istoriya.m3u8
+#EXTINF:-1 ,Карусель
+http://moobl.ru/hls/Karusel.m3u8
+#EXTINF:-1 ,КВН ТВ
+http://moobl.ru/hls/KVN.m3u8
+#EXTINF:-1 ,Кинеко
+http://moobl.ru/hls/Kineko.m3u8
+#EXTINF:-1 ,Кино 1 International HD
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+#EXTINF:-1 ,Кино ТВ
+http://moobl.ru/hls/Kino_tv.m3u8
+#EXTINF:-1 ,КИНО-1 INTERNATIONAL
+https://autopilot.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 ,Киномикс HD
+http://moobl.ru/hls/Kinomix_HD.m3u8
+#EXTINF:-1 ,Кинопоказ
+http://31.148.48.15/Kinopokaz/index.m3u8
+#EXTINF:-1 ,Красная линия
+http://moobl.ru/hls/Krasnaya_linia.m3u8
+#EXTINF:-1 ,Любимое Индийское Кино
+https://autopilot.catcast.tv/content/41596/index.m3u8
+#EXTINF:-1 ,Мульт HD
+http://moobl.ru/hls/Mult_hd.m3u8
+#EXTINF:-1 ,Мультиландия (1080p) [Geo-blocked]
+https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+#EXTINF:-1 ,Мультимания
+http://moobl.ru/hls/Multimania.m3u8
+#EXTINF:-1 ,НТВ
+http://moobl.ru/hls/NTV.m3u8
+#EXTINF:-1 ,НТВ HD
+http://moobl.ru/hls/NTV_hd.m3u8
+#EXTINF:-1 ,НТВ Право
+http://moobl.ru/hls/NTV_pravo.m3u8
+#EXTINF:-1 ,НТВ Сериал
+http://moobl.ru/hls/NTV_serial.m3u8
+#EXTINF:-1 ,ОТР
+http://moobl.ru/hls/OTR.m3u8
+#EXTINF:-1 ,Первый канал
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,РБК-ТВ
+http://moobl.ru/hls/RBK.m3u8
+#EXTINF:-1 ,РБК-ТВ HD
+http://moobl.ru/hls/RBK_hd.m3u8
+#EXTINF:-1 ,Рен ТВ International
+http://moobl.ru/hls/Rentv_international.m3u8
+#EXTINF:-1 ,Россия 1
+http://moobl.ru/hls/Russia_1.m3u8
+#EXTINF:-1 ,Россия 24
+http://moobl.ru/hls/Russia_24.m3u8
+#EXTINF:-1 ,Россия HD
+http://moobl.ru/hls/Russia_1_hd.m3u8
+#EXTINF:-1 ,Россия-Культура
+http://moobl.ru/hls/Russia_K.m3u8
+#EXTINF:-1 ,СТС
+http://moobl.ru/hls/STS.m3u8
+#EXTINF:-1 ,СТС HD
+http://moobl.ru/hls/STS_hd.m3u8
+#EXTINF:-1 ,ТВ3
+http://moobl.ru/hls/TV3.m3u8
+#EXTINF:-1 ,ТНТ
+http://moobl.ru/hls/TNT.m3u8
+#EXTINF:-1 ,Феникс+Кино
+http://82.209.197.187:8080/udp/239.0.100.101:1234
+#EXTINF:-1 ,Центр (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8
+#EXTINF:-1 ,Че
+http://moobl.ru/hls/Che.m3u8
+#EXTINF:-1 ,Ю (576p) [Geo-blocked]
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 ,test24
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=3tjkN2FcNQEGNivnnR8wVQ&e=1705024980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
