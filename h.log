@@ -1387,5 +1387,7 @@ https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8
 http://moobl.ru/hls/Che.m3u8
 #EXTINF:-1 ,Ю (576p) [Geo-blocked]
 https://strm.yandex.ru/kal/utv/utv0.m3u8
-#EXTINF:-1 ,test24
+#EXTINF:-1 ,Rossija 24 test24
 https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=3tjkN2FcNQEGNivnnR8wVQ&e=1705024980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1 ,Pjatij kanal test
+https://a.pokaz.me/524/tracks-v1a1/mono.m3u8?k=1705032509p481i42i39i77S560fa1af96073904c69af61274f88927
