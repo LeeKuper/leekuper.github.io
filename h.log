@@ -1387,7 +1387,11 @@ https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8
 http://moobl.ru/hls/Che.m3u8
 #EXTINF:-1 ,Ю (576p) [Geo-blocked]
 https://strm.yandex.ru/kal/utv/utv0.m3u8
-#EXTINF:-1 ,Rossija 24 test24
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=3tjkN2FcNQEGNivnnR8wVQ&e=1705024980&hls_proxy_host=70b013ca21e8364cd537747cf862272b
-#EXTINF:-1 ,Pjatij kanal test
-https://a.pokaz.me/524/tracks-v1a1/mono.m3u8?k=1705032509p481i42i39i77S560fa1af96073904c69af61274f88927
+#EXTINF:-1,Первый Канал HD
+http://213.172.73.171:8081/nimble_live/1185__Perviy_Kanal_HD/playlist.m3u8
+#EXTINF:-1,5 канал
+http://flu.ttk.mx:9090/5kanal/index.m3u8?token=orh6o
+#EXTINF:-1,5 Оттенков от Private
+https://video2.tizam.cc/files/2206650/5_ottenkov_privat___5_shades_of_private.mp4
+#EXTINF:-1,Пятый канал
+http://213.172.73.170:8081/nimble_live/1034__5_kanal/playlist.m3u8
