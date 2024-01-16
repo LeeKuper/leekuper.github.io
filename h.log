@@ -1072,7 +1072,7 @@ https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
 #EXTINF:-1 ,Советские Мультфильмы
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy82YTE2N2FmYy00MGYzLTQyMDgtODBiYy00ZGQwYmRhMTdkYWUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
 #EXTINF:-1 ,Соловьев Live 1
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6_891983.ts?hls_proxy_host=70b013ca21e8364cd537747cf862272b
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6.m3u8?md5=EgAKfyOINRaxlhJ0hhin6g&e=1705446180&hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 ,Сон Фелисы
 https://video1.tizam.cc/old_films/Son-Felice-nel-Panino.mp4
 #EXTINF:-1 ,Союз
