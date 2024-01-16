@@ -1071,8 +1071,8 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v
 https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
 #EXTINF:-1 ,Советские Мультфильмы
 http://nstreamportal.ru/iptv/iptv_api.php?type=voka&id=aHR0cHM6Ly9hcGkudm9rYS50di92MS9jaGFubmVscy82YTE2N2FmYy00MGYzLTQyMDgtODBiYy00ZGQwYmRhMTdkYWUvc3RyZWFtLmpzb24%2FY2xpZW50X3ZlcnNpb249MS43LjAuMjQ2JnRpbWV6b25lPTEwODAwJmxvY2FsZT1ydS1SVSZwcm90b2NvbD1obHMmdmlkZW9fY29kZWM9aDI2NCZhdWRpb19jb2RlYz1tcDRhJmRybT1zcGJ0dmNhcyZzY3JlZW5fd2lkdGg9Mzg0MCZzY3JlZW5faGVpZ2h0PTIxNjAmZGV2aWNlX3Rva2VuPTA5MTRkMzAzLWU1YmQtNDY0ZS1iYTVmLTIxYzEzOWFkYWIxYSZjbGllbnRfaWQ9NjljMjk0OWYtZDU2OC00ZDdmLTgwNjgtNWNmMmY2Mjk1ZTU2&.m3u8
-#EXTINF:-1 ,Соловьев Live HD
-http://dmi3y-tv.ru/hls/smotrim/CH_SOLOVEVLIVEHD.m3u8
+#EXTINF:-1 ,Соловьев Live 1
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6_891983.ts?hls_proxy_host=70b013ca21e8364cd537747cf862272b
 #EXTINF:-1 ,Сон Фелисы
 https://video1.tizam.cc/old_films/Son-Felice-nel-Panino.mp4
 #EXTINF:-1 ,Союз
@@ -1191,7 +1191,9 @@ http://stream0.tv41.ru/live.m3u8
 http://stream.novouralsk-news.ru/echotv24/live.m3u8
 #EXTINF:-1 ,Ю
 http://flu.ttk.mx:9090/U/index.m3u8?token=orh6o
-#EXTINF:-1 ,1
+#EXTINF:-1 ,1 застревает
+http://free.cvmtv.site/OPT1?token=live
+#EXTINF:-1 ,Первый
 http://free.cvmtv.site/OPT1?token=live
 #EXTINF:-1  tvg-logo="https://picon.ml/pervy-pl4.png",1 (MSK+4)
 https://cdn11.1internet.tv/dash-live2/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
@@ -1395,3 +1397,5 @@ http://flu.ttk.mx:9090/5kanal/index.m3u8?token=orh6o
 https://video2.tizam.cc/files/2206650/5_ottenkov_privat___5_shades_of_private.mp4
 #EXTINF:-1,Пятый канал
 http://213.172.73.170:8081/nimble_live/1034__5_kanal/playlist.m3u8
+#EXTINF:-1 ,Соловьев Live 2
+https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6_891983.ts?hls_proxy_host=70b013ca21e8364cd537747cf862272b
