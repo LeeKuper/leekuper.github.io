@@ -1389,13 +1389,12 @@ https://ythls.armelin.one/channel/UCQeGq915GhiFlOE-fuoXGKQ.m3u8
 http://moobl.ru/hls/Che.m3u8
 #EXTINF:-1 ,Ю (576p) [Geo-blocked]
 https://strm.yandex.ru/kal/utv/utv0.m3u8
-#EXTINF:-1,Первый Канал HD
-http://213.172.73.171:8081/nimble_live/1185__Perviy_Kanal_HD/playlist.m3u8
-#EXTINF:-1,5 канал
-http://flu.ttk.mx:9090/5kanal/index.m3u8?token=orh6o
-#EXTINF:-1,5 Оттенков от Private
-https://video2.tizam.cc/files/2206650/5_ottenkov_privat___5_shades_of_private.mp4
-#EXTINF:-1,Пятый канал
-http://213.172.73.170:8081/nimble_live/1034__5_kanal/playlist.m3u8
-#EXTINF:-1 ,Соловьев Live 2
-https://vgtrksmotrim.cdnvideo.ru/hls/solovievlive/playlist_6_891983.ts?hls_proxy_host=70b013ca21e8364cd537747cf862272b
+#EXTINF:-1,Первый Канал Ⓢ
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,Соловьев Live Ⓢ
+https://player.smotrim.ru/iframe/stream/live_id/63338
+#EXTINF:-1 ,Пятый канал Ⓢ
+https://streaming.televizor-24-tochka.ru/live/8.m3u8
+#EXTINF:-1 ,Пятый канал s18209
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8?utcstart=1646211600
+
