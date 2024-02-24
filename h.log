@@ -1396,7 +1396,7 @@ https://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Пятый канал Ⓢ
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
 #EXTINF:-1 ,Пятый канал s18209
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8?utcstart=1646211600\
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8?utcstart=1646211600
 #EXTINF:-1,Пятый канал Орбита Плюс
 https://bkm.beetv.kz/btv/live/hls/000003718.m3u8
 #EXTINF:-1,Пятый канал Юнионтел
