@@ -1396,5 +1396,20 @@ https://player.smotrim.ru/iframe/stream/live_id/63338
 #EXTINF:-1 ,Пятый канал Ⓢ
 https://streaming.televizor-24-tochka.ru/live/8.m3u8
 #EXTINF:-1 ,Пятый канал s18209
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8?utcstart=1646211600
+http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8?utcstart=1646211600\
+#EXTINF:-1,Пятый канал Орбита Плюс
+https://bkm.beetv.kz/btv/live/hls/000003718.m3u8
+#EXTINF:-1,Пятый канал Юнионтел
+http://94.228.204.166:8000/play/0005
+#EXTINF:-1,Пятый канал Инетком
+http://1mir-iptv.ru/hhh/www.php?id=n350b8382&token=RGltb25vdmljaDoxOTgyMTk4Mg==
+#EXTINF:-1,ПЯТЫЙ КАНАЛ Зелёная точка
+http://81.177.197.13:8000/play/a004/index.m3u8
+#EXTINF:-1,ПЯТЫЙ КАНАЛ К Телеком_2
+http://hls.k-telecom.org:8081/kt/9/playlist.m3u8
+#EXTINF:-1,Пятый канал Lime
+https://mhd116.iptv2022.com/p/F8pq9bsBX-9o6KyV4opNTQ,1708894804/streaming/5kanalott/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1,Пятый канал CloudFlare Inc
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+
 
