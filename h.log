@@ -1409,7 +1409,38 @@ http://81.177.197.13:8000/play/a004/index.m3u8
 http://hls.k-telecom.org:8081/kt/9/playlist.m3u8
 #EXTINF:-1,Пятый канал Lime
 https://mhd116.iptv2022.com/p/F8pq9bsBX-9o6KyV4opNTQ,1708894804/streaming/5kanalott/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1,Пятый канал CloudFlare Inc
-https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="TEST (VPN)",Первый канал A
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+#EXTINF:-1 group-title="Орбита Плюс",Первый канал B
+https://bkm.beetv.kz/btv/live/hls/000001227.m3u8
+#EXTINF:-1 group-title="Interhost Communication",ПЕРВЫЙ КАНАЛ HD C
+http://185.37.150.40:8092/Pervi_HD/index.m3u8
+#EXTINF:-1 group-title="Юнионтел",Первый канал D
+http://94.228.204.166:8000/play/0001
+#EXTINF:-1 group-title="С сайтов (VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD E
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Инт-тв (VPN)",ПЕРВЫЙ КАНАЛ F
+http://176.113.48.221:8986/1
+#EXTINF:-1 group-title="Промышленная автоматика (VPN)",ПЕРВЫЙ КАНАЛ G
+http://31.148.6.9:10001/index.m3u8
+#EXTINF:-1 group-title="Зелёная точка (VPN)",ПЕРВЫЙ КАНАЛ H
+http://81.177.197.13:8000/play/a001/index.m3u8
+#EXTINF:-1 group-title="Рэй-связь (VPN)",Первый HD I
+http://94.232.104.237:8000/play/099/index.m3u8
+#EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",Первый канал J
+http://91.142.158.107:8092/play/1/index.m3u8
+#EXTINF:-1 group-title="Lime (VPN)",Первый канал HD K
+https://mhd116.iptv2022.com/p/fPojflrje777tb_llkAadg,1709326804/streaming/1kanalott/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Lime (VPN)",Первый канал (+2) L
+https://mhd116.iptv2022.com/p/DhvgiD4tfzSz_gcXEQRW5w,1709326805/streaming/1kanalplus2/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Lime (VPN)",Первый канал (+4) M
+https://mhd116.iptv2022.com/p/_Le_0zDZKShbjrkc-DXIVw,1709326805/streaming/1kanalplus4/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Peers (VPN)",Первый канал HD +4 N
+http://api.peers.tv/timeshift/1kanal_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3MDkzNjc0MzEsImlhdCI6MTcwOTI4MTAzMSwiY2lkIjo2LCJ1aWQiOjc0NTU4ODc5NCwicmVnIjpmYWxzZSwiaXAiOjE3NDY3MjgwNzYsInByb2ZpbGUiOiJhZHVsdCIsImFkdWx0IjpmYWxzZX0.wo533L313e-B7EhkI6HrSIpBB3EnezUhJpTN6ixIYKA&offset=10
+#EXTINF:-1 group-title="Большое ТВ (VPN)",Первый канал HD O
+http://95.181.17.26/dvr01/hd1/1kanal_hd/chunks.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjQgODoxNzoxMiBBTSZoYXNoX3ZhbHVlPVN6L1JuR2tqU0JyV2Q5MkM1QkJnQ0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
+#EXTINF:-1 group-title="Большое ТВ (VPN)",Первый канал P
+http://arbiter.bolshoe.tv/?path=streaming/1kanal/71/tvrec/playlist.m3u8&&wmsAuthSign=c2VydmVyX3RpbWU9My8xLzIwMjQgODoxNzoxMiBBTSZoYXNoX3ZhbHVlPVN6L1JuR2tqU0JyV2Q5MkM1QkJnQ0E9PSZ2YWxpZG1pbnV0ZXM9NzIwJmlkPTc3Nw==
 
 
