@@ -1,12 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,Первый HD
+https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ+3ад
+http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,#Ё
 http://cdn-lb.iptv2022.com/p/38CICVczmf8GxXb9Z-N7iw,1672887382/streaming/echannel/324/1/index.m3u8
 #EXTINF:-1 ,1/2 недель
 https://video1.tizam.cc/files/2430775/9_1_2_weeks._xxx_version.mp4
-#EXTINF:-1 ,10musume  030118_01 木村涼子
-http://video1.rhsj520.com:8091/nyrm3/tianran/030118_01/1500kb/hls/index.m3u8
-#EXTINF:-1 ,10MUSUME 011717_01
-http://video1.rhsj520.com:8091/nyrm3/tianran/011717_01/1500kb/hls/index.m3u8
 #EXTINF:-1 ,11 канал (Пенза)
 http://85.234.33.64/stream/c11.m3u8
 #EXTINF:-1 ,12 канал HD
@@ -936,8 +936,6 @@ https://tbs01-edge11.itdc.ge/ort/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 http://persik.by/stream/1832/161161/8.m3u8
 #EXTINF:-1 ,Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 ,Первый канал HD
 http://77.240.45.106:3333/play/a08j
 #EXTINF:-1 ,Первый канал Zabava
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
@@ -1419,8 +1417,6 @@ http://176.113.48.221:8986/1
 http://31.148.6.9:10001/index.m3u8
 #EXTINF:-1 group-title="Рэй-связь (VPN)",Первый HD I
 http://94.232.104.237:8000/play/099/index.m3u8
-#EXTINF:-1 group-title="Теледайн системс лимитед (VPN)",Первый канал J
-http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Первый канал HD K
 https://mhd116.iptv2022.com/p/fPojflrje777tb_llkAadg,1709326804/streaming/1kanalott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1 group-title="Lime (VPN)",Первый канал (+2) L
@@ -1495,22 +1491,9 @@ http://92.53.64.197:5050/tvc/video.m3u8?token=m3VIth-Rou_bM1
 http://91.142.158.107:8092/play/10/index.m3u8
 #EXTINF:-1 ,ТВЦ
 https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
-#EXTINF:-1,Первый HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1,ПЕРВЫЙ КАНАЛ
-http://91.142.158.107:8092/play/1/index.m3u8
-#EXTINF:-1,Россия 24
+#EXTINF:-1 ,Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
-#EXTINF:-1,НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,История
+#EXTINF:-1 ,История
 http://iptv.mega.net.ru:8888/Istoria/mono.m3u8
-#EXTINF:-1,Пятый канал
-http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
-#EXTINF:-1,Че
-http://s18209.cdn.ngenix.net/hls/CH_R02_PERETZ/playlist.m3u8
-#EXTINF:-1,Ю
+#EXTINF:-1 ,Ю
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
-#EXTINF:-1,ТВЦ
-https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-
