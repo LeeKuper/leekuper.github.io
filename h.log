@@ -1501,9 +1501,9 @@ http://iptv.mega.net.ru:8888/Istoria/mono.m3u8
 http://s18209.cdn.ngenix.net/hls/CH_R03_U/playlist.m3u8
 #EXTINF:-1 group-title="Lom TV" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Первый канал
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 group-title="Lom TV" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1
+#EXTINF:-1 group-title="Lom TV" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия 1 zlom
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
-#EXTINF:-1 group-title="Lom TV" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ
+#EXTINF:-1 group-title="Lom TV" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",ТНТ zlom
 http://s18209.cdn.ngenix.net/hls/CH_R01_TNT/playlist.m3u8
 #EXTINF:-1 group-title="Lom TV" catchup="append" catchup-days="3" catchup-source="?offset=-${offset}&utcstart=${timestamp}",Россия К
 http://s18209.cdn.ngenix.net/hls/CH_R02_ROSSIAK/playlist.m3u8
@@ -1601,3 +1601,15 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="Lom TV" tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1,Россия 1 iptv-org
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:-1,Первый канал A[720x576]
+http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
+#EXTINF:-1,Первый канал B[720x576]
+http://195.26.83.96:7013/play/12/index.m3u8
+#EXTINF:-1,Первый канал C[720x576]
+http://91.142.158.107:8092/play/1/index.m3u8
+#EXTINF:-1,Первый канал D[720x576]
+http://88.85.172.243:7005/play/a00k
+#EXTINF:-1,Первый канал +56 amono[720x576]
+http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
