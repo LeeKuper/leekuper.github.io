@@ -1625,3 +1625,5 @@ https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Первый HD edge3
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1,Первый HD 194143
+http://194.143.148.28:8080/PerviyHD/index.m3u8
