@@ -1621,3 +1621,7 @@ https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 http://88.85.172.243:7005/play/a00l
 #EXTINF:-1 ,Первый HD edge1
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,Первый HD edge2
+https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,Первый HD edge3
+https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
