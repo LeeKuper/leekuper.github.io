@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,Первый HD
+#EXTINF:-1 ,Первый HD edge4
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,Россия 1 HD L
 https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
@@ -1619,3 +1619,5 @@ https://player.smotrim.ru/iframe/stream/live_id/2961
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1,Россия 1 D[720x576]
 http://88.85.172.243:7005/play/a00l
+#EXTINF:-1 ,Первый HD edge1
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
