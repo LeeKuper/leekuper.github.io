@@ -1599,7 +1599,7 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="Lom TV" tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",Прима
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
-#EXTINF:-1,Россия 1 iptv-org
+#EXTINF:-1,Россия1iptv-org
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1,Первый канал A[720x576]
 http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
@@ -1619,22 +1619,20 @@ https://player.smotrim.ru/iframe/stream/live_id/2961
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1,Россия 1 D[720x576]
 http://88.85.172.243:7005/play/a00l
-#EXTINF:-1 ,Первый HD edge1
+#EXTINF:-1,ПервыйHDedge1
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 ,Первый HD edge2
+#EXTINF:-1,ПервыйHDedge2
 https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 ,Первый HD edge3
+#EXTINF:-1,ПервыйHDedge3
 https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1,Первый HD 194143
+#EXTINF:-1,ПервыйHD194143
 http://194.143.148.28:8080/PerviyHD/index.m3u8
-#EXTINF:-1,Match Arena
+#EXTINF:-1,MatchArena
 http://194.143.148.28:8080/MatchArena/mpegts
-#EXTINF:-1,Match Futbol1 HD
+#EXTINF:-1,MatchFutbol1HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
 #EXTINF:-1,Moja Planeta (EDTV 576p)
 http://194.143.148.28:8080/Nauka20/mpegts
-#EXTINF:-1,TV 1000 ViJU RusskojeKino
-http://194.143.148.28:8080/TV1000RuKino/mpegts
-#EXTINF:-1,TV 1000 ViJU RusskojeKino
+#EXTINF:-1,TV1000ViJuRusKino
 http://194.143.148.28:8080/TV1000RuKino/mpegts
 
