@@ -1621,7 +1621,7 @@ https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 http://88.85.172.243:7005/play/a00l
 #EXTINF:-1,TV1000ViJRuKin
 http://194.143.148.28:8080/TV1000RuKino/mpegts
-#EXTINF:-1,MatchArena
+#EXTINF:-1,MatchArn
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1,ПервыйHDedge4
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
