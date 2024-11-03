@@ -9,8 +9,8 @@ http://91.142.158.107:8092/play/1/index.m3u8
 http://cdn-lb.iptv2022.com/p/38CICVczmf8GxXb9Z-N7iw,1672887382/streaming/echannel/324/1/index.m3u8
 #EXTINF:-1 ,1/2 недель
 https://video1.tizam.cc/files/2430775/9_1_2_weeks._xxx_version.mp4
-#EXTINF:-1 ,11 канал (Пенза)
-http://85.234.33.64/stream/c11.m3u8
+#EXTINF:-1,ArenaM
+http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 ,12 канал HD
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 ,1HD
@@ -1619,10 +1619,10 @@ https://player.smotrim.ru/iframe/stream/live_id/2961
 https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 #EXTINF:-1,Россия 1 D[720x576]
 http://88.85.172.243:7005/play/a00l
-#EXTINF:-1,MatchArn
-http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1,ПервыйHDedge1
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 ,11 канал (Пенза)
+http://85.234.33.64/stream/c11.m3u8
 #EXTINF:-1,ПервыйHDedge4
 https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1,ПервыйHDedge2
