@@ -1469,12 +1469,12 @@ http://92.53.64.197:5050/pyatiy_kanal/video.m3u8?token=m3VIth-Rou_bM1
 http://31.148.6.9:10005/index.m3u8
 #EXTINF:-1 ,Пятый канал
 https://mhd116.iptv2022.com/p/YZc_zpiHEcctJqO9xwrYYg,1718917203/streaming/5kanalott/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 ,Пятый канал (+2)
-https://mhd116.iptv2022.com/p/lVU7LSI6FNUna2GSoQkOyw,1718917204/streaming/5kanalplus2/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 ,Пятый канал (+4)
-https://mhd116.iptv2022.com/p/iOITcZ34tjFyzf7jRCtUlg,1718917204/streaming/5kanalplus4/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 ,Пятый канал (+7)
-https://mhd116.iptv2022.com/p/yxv5JU_j_hQI6FRJNlLwKw,1718917204/streaming/5kanalplus7/324/1/tracks-v4a1/mono.m3u8
+#EXTINF:-1,Пятый канал dec22
+http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e
+#EXTINF:-1,Пятый dec23
+http://92.53.64.197:5050/pyatiy_kanal/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1,Пятый канал dec24
+https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 ,Пятый канал
 https://mobdrm.mediavitrina.ru:443/hls-livef1/tv-5/tracks-v3a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.dUpAfOLykDHY4pH_kDa2Z7HZUO0I-lef9tGzgTyh6tc.mkD0xrvk2W2vp_vTrYGTtpT6e4-31eT_cfcN3rPJIWM.1719515022.f9625789ae38cce09c935de54bacefb1
 #EXTINF:-1 ,Пятый канал
