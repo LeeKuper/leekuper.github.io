@@ -921,10 +921,10 @@ http://86.57.178.105:9952/oh
 http://81.177.197.13:8000/play/a001/index.m3u8
 #EXTINF:-1 ,Первый городской (Кривой Рог)
 http://portal.ott.pink/watch/121/video.m3u8?geo=auto&token=CFEADF9789D77A45B3B359EE168CCCA6
-#EXTINF:-1 ,Первый канал
-https://sc.id-tv.kz:443/1KanalVsemSet_36_37.m3u8
-#EXTINF:-1 ,Первый канал
-http://77.240.45.106:3333/play/a0aq
+#EXTINF:-1,Первый канал dec22
+http://92.53.64.197:5050/Perviy_Kanal/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1,Первый канал dec24
+https://stream2.cinerama.uz/1019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал
 http://188.143.128.24:30000/play/a1/index.m3u8
 #EXTINF:-1 ,Первый канал
@@ -1463,7 +1463,7 @@ http://92.53.64.197:5050/Solovyov_live/video.m3u8?token=m3VIth-Rou_bM1
 https://mhd116.iptv2022.com/p/EinVL_zyk6W60aUXPul12A,1718917213/streaming/solovyevlive/324/1/index.m3u8
 #EXTINF:-1 ,Пятый канал
 http://188.113.190.15/5/video.m3u8
-#EXTINF:-1 ,Пятый
+#EXTINF:-1 ,Пятый Ok
 http://92.53.64.197:5050/pyatiy_kanal/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 ,ПЯТЫЙ
 http://31.148.6.9:10005/index.m3u8
@@ -1471,14 +1471,14 @@ http://31.148.6.9:10005/index.m3u8
 https://mhd116.iptv2022.com/p/YZc_zpiHEcctJqO9xwrYYg,1718917203/streaming/5kanalott/324/1/tracks-v4a1/mono.m3u8
 #EXTINF:-1,Пятый канал dec22
 http://flu.ttk.mx:90/5kanal/mono.m3u8?token=hs06e
-#EXTINF:-1,Пятый dec23
-http://92.53.64.197:5050/pyatiy_kanal/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1,Пятый канал dec24
+#EXTINF:-1,Пятый канал dec23
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1 ,Пятый канал
 https://mobdrm.mediavitrina.ru:443/hls-livef1/tv-5/tracks-v3a1/mono.m3u8?cdn=https%3A%2F%2Fvgtrk-live-megafon.mediavitrina.ru&token=v2.dUpAfOLykDHY4pH_kDa2Z7HZUO0I-lef9tGzgTyh6tc.mkD0xrvk2W2vp_vTrYGTtpT6e4-31eT_cfcN3rPJIWM.1719515022.f9625789ae38cce09c935de54bacefb1
 #EXTINF:-1 ,Пятый канал
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
+#EXTINF:-1,ПЕРВЫЙ КАНАЛ HD dec23
+http://194.143.148.28:8080/PerviyHD/mpegts
 #EXTINF:-1 ,ТВЦ
 https://bkm.beetv.kz/btv/live/hls/000000112.m3u8
 #EXTINF:-1 ,ТВЦ netu3
