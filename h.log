@@ -1453,8 +1453,8 @@ http://levshanov.tlkf.ru:8080/tv/24tv.php?id=4
 http://levshanov.tlkf.ru:8080/tv/24tv.php?id=220
 #EXTINF:-1 ,НТВ HD
 https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
-#EXTINF:-1 ,НТВ
-http://s18209.cdn.ngenix.net/hls/CH_R03_NTV/playlist.m3u8
+#EXTINF:-1,НТВ HDm
+http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 ,НТВ Беларусь
 https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
 #EXTINF:-1 ,Соловьев
