@@ -7,8 +7,8 @@ https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
 http://91.142.158.107:8092/play/1/index.m3u8
 #EXTINF:-1 ,#Ё
 http://cdn-lb.iptv2022.com/p/38CICVczmf8GxXb9Z-N7iw,1672887382/streaming/echannel/324/1/index.m3u8
-#EXTINF:-1 ,Россия 1 HD
-http://s5.merlive.am:80/Rossia1/index.m3u8
+#EXTINF:-1,Россия 1 HDdm
+http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
 #EXTINF:-1 ,ArenaM
 http://194.143.148.28:8080/MatchArena/mpegts
 #EXTINF:-1 ,12 канал HD
