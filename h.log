@@ -873,10 +873,10 @@ rtmp://178.159.112.198//ntv_hd
 http://cdn.ntv.ru/ntv0_hd/index.m3u8
 #EXTINF:-1 ,НТВ HD 2
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ HD 3
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
 #EXTINF:-1,НТВ HDostanov
 http://178.159.87.157:81/udp/239.195.1.168:1234
+#EXTINF:-1,НТВ HDostanov2
+http://178.159.87.157:81/udp/239.195.1.4:1234
 #EXTINF:-1 ,НТВ OTT
 http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/3/hlsx/pl.m3u8
 #EXTINF:-1 ,НТВ Америка
