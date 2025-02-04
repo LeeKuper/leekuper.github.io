@@ -845,16 +845,16 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 http://146.158.0.56/Nostalgiya/index.m3u8
 #EXTINF:-1 ,НСТ
 http://176.74.80.162:8099/HCT/index.m3u8
-#EXTINF:-1 ,НТВ
-http://77.240.45.106:3333/play/a0at
-#EXTINF:-1 ,НТВ
-http://188.143.128.24:30000/play/a4/index.m3u8
-#EXTINF:-1 ,НТВ
-rtmp://178.159.112.198//ntv
-#EXTINF:-1 ,НТВ (+2)
-http://77.240.45.106:3333/play/a07g
-#EXTINF:-1 ,НТВ +1
-http://cdn.ntv.ru/ntv1_sd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ feb25_2 178 57
+http://178.57.121.38:8080/ntv/index.m3u8?token=test
+#EXTINF:-1,НТВ feb25_3 185 23
+http://185.23.80.28:8080/NTV/index.m3u8?token=test
+#EXTINF:-1,НТВ feb25_4 92 53
+http://92.53.64.197:5050/NTV/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1,НТВ feb25_5 uspeh
+http://live.admuspeh.my/8003/index.m3u8?token=pE6pxgAtfZdZmnLx
+#EXTINF:-1,НТВ feb25_6 ttk
+http://tv.ttk.mx:9003
 #EXTINF:-1 ,НТВ +2
 http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ FHD OTT
