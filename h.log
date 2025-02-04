@@ -1447,13 +1447,13 @@ https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
 https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ +7
 https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ
-http://levshanov.tlkf.ru:8080/tv/24tv.php?id=4
-#EXTINF:-1 ,НТВ HD
-http://levshanov.tlkf.ru:8080/tv/24tv.php?id=220
-#EXTINF:-1,НТВ (HD)ntv0hd_ru
-http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
-#EXTINF:-1,НТВ HDm
+#EXTINF:-1,НТВ (+2) 2025febD
+http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
+#EXTINF:-1,НТВ (+7) 2025febD
+http://dmi3y-tv.ru/hls/T2/CH_NTV_7.m3u8
+#EXTINF:-1,НТВ 2025febD
+http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
+#EXTINF:-1,НТВ HD 2025febD
 http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 #EXTINF:-1 ,НТВ Беларусь
 https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
