@@ -859,15 +859,15 @@ http://tv.ttk.mx:9003
 http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,НТВ FHD OTT
 http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/49336/hlsx/pl.m3u8
-#EXTINF:-1 ,НТВ HD
+#EXTINF:-1 ,НТВ HD A1
 http://persik.by/stream/1832/161161/10726.m3u8
-#EXTINF:-1 ,НТВ HD
+#EXTINF:-1 ,НТВ HD A2
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
-#EXTINF:-1 ,НТВ HD
+#EXTINF:-1 ,НТВ HD A3
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ HD
+#EXTINF:-1 ,НТВ HD A4
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ HD
+#EXTINF:-1 ,НТВ HD A5 rtmp
 rtmp://178.159.112.198//ntv_hd
 #EXTINF:-1 ,НТВ HD 1
 http://cdn.ntv.ru/ntv0_hd/index.m3u8
@@ -927,7 +927,7 @@ http://92.53.64.197:5050/Perviy_Kanal/video.m3u8?token=m3VIth-Rou_bM1
 https://stream2.cinerama.uz/1019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Первый канал
 http://188.143.128.24:30000/play/a1/index.m3u8
-#EXTINF:-1 ,Первый канал
+#EXTINF:-1 ,Первый канал rtmp
 rtmp://178.159.112.198//pervyj
 #EXTINF:-1 ,ПЕРВЫЙ КАНАЛ
 https://tbs01-edge11.itdc.ge/ort/tracks-v1a1/mono.m3u8
@@ -1023,7 +1023,7 @@ http://188.143.128.24:30000/play/a7/index.m3u8
 http://195.3.252.117:8001/play/a00e
 #EXTINF:-1 ,Россия HD
 http://77.240.45.106:3333/play/a09c
-#EXTINF:-1 ,Россия HD
+#EXTINF:-1 ,Россия HD rtmp
 rtmp://178.159.112.198//russia_hd
 #EXTINF:-1 ,Россия К
 http://persik.by/stream/1832/161161/140.m3u8
@@ -1121,7 +1121,7 @@ http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/38572/hlsx/pl.m3u8
 https://nl01.spr24.net/1982/mpegts?token=brm93nV8tUcCAN
 #EXTINF:-1 ,ТВЦ OTT nepod
 http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/10/hlsx/pl.m3u8
-#EXTINF:-1 ,ТВЦ s0
+#EXTINF:-1 ,ТВЦ s0 rtmp
 rtmp://178.159.112.198//tvc
 #EXTINF:-1 ,ТВЦ s1
 http://77.240.45.106:3333/play/a08x
