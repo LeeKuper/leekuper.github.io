@@ -857,15 +857,15 @@ http://live.admuspeh.my/8003/index.m3u8?token=pE6pxgAtfZdZmnLx
 http://tv.ttk.mx:9003
 #EXTINF:-1 ,НТВ +2
 http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ FHD OTT
-http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/49336/hlsx/pl.m3u8
+#EXTINF:-1 ,НТВ HD A4 bes S
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ HD A1
 http://persik.by/stream/1832/161161/10726.m3u8
 #EXTINF:-1 ,НТВ HD A2
 http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
 #EXTINF:-1 ,НТВ HD A3
 http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ HD A4
+#EXTINF:-1 ,НТВ HD A4 kitch
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ HD A5 rtmp
 rtmp://178.159.112.198//ntv_hd
