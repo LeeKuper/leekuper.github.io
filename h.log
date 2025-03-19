@@ -845,8 +845,8 @@ http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 http://146.158.0.56/Nostalgiya/index.m3u8
 #EXTINF:-1 ,НСТ
 http://176.74.80.162:8099/HCT/index.m3u8
-#EXTINF:-1,НТВ feb25_2 178 57
-http://178.57.121.38:8080/ntv/index.m3u8?token=test
+#EXTINF:-1,НТВ mar19 cdn2
+http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1,НТВ feb25_3 185 23
 http://185.23.80.28:8080/NTV/index.m3u8?token=test
 #EXTINF:-1,НТВ feb25_4 92 53
