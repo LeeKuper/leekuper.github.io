@@ -1481,8 +1481,8 @@ https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 http://194.143.148.28:8080/PerviyHD/mpegts
 #EXTINF:-1 ,ТВЦ
 https://bkm.beetv.kz/btv/live/hls/000000112.m3u8
-#EXTINF:-1 ,ТВЦ netu3
-http://188.113.190.15/10/video.m3u8
+#EXTINF:-1 ,ТВЦ tv.ttk
+http://tv.ttk.mx:9009
 #EXTINF:-1 ,ТВЦ netu2
 http://92.53.64.197:5050/tvc/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 ,ТВЦ
