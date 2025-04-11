@@ -1113,8 +1113,8 @@ http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 ,ТВЦ tochno
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 ,ТВЦ (+4) OTT
-http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/45263/hlsx/pl.m3u8
+#EXTINF:-1 ,ТВЦ 2025apr
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ HD OTT
 http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/38572/hlsx/pl.m3u8
 #EXTINF:-1 ,ТВЦ International
