@@ -1479,15 +1479,15 @@ https://mobdrm.mediavitrina.ru:443/hls-livef1/tv-5/tracks-v3a1/mono.m3u8?cdn=htt
 https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 #EXTINF:-1,ПЕРВЫЙ КАНАЛ HD dec23
 http://194.143.148.28:8080/PerviyHD/mpegts
-#EXTINF:-1 ,ТВЦ
+#EXTINF:-1,ТВЦ
 https://bkm.beetv.kz/btv/live/hls/000000112.m3u8
-#EXTINF:-1 ,ТВ Центр jun2025
-http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 ,ТВЦ netu2
+#EXTINF:-1,Первый канал jun2025 178.212
+http://178.212.71.253:8000/play/1/index.m3u8
+#EXTINF:-1,ТВЦ netu2
 http://92.53.64.197:5050/tvc/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 ,ТВЦ
+#EXTINF:-1,ТВЦ
 http://91.142.158.107:8092/play/10/index.m3u8
-#EXTINF:-1 ,ТВЦ netu
+#EXTINF:-1,ТВЦ netu
 https://livetv.mylifeisgood.net.ru/channels/tvc24.m3u8
 #EXTINF:-1 ,Россия 24
 http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
