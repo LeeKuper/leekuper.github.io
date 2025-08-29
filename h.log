@@ -1,16 +1,16 @@
 #EXTM3U
-#EXTINF:-1 ,TV1000ViJRuKin
-http://194.143.148.28:8080/TV1000RuKino/mpegts
-#EXTINF:-1 ,Россия 1 HD L
-https://livetv.mylifeisgood.net.ru/channels/russia1.m3u8
-#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ+3ад
-http://91.142.158.107:8092/play/1/index.m3u8
+#EXTINF:-1,Россия 1 aug2025
+http://87.246.54.249:8085/RTR_Planeta/index.m3u8
+#EXTINF:-1,Россия 1 HD aug2025
+http://178.217.72.66:8080/Rossiya_HD/index.m3u8
+#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ edge1 2025aug
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,#Ё
 http://cdn-lb.iptv2022.com/p/38CICVczmf8GxXb9Z-N7iw,1672887382/streaming/echannel/324/1/index.m3u8
 #EXTINF:-1,Россия 1 HDdm
 http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 ,ArenaM
-http://194.143.148.28:8080/MatchArena/mpegts
+#EXTINF:-1,ТВ Центр 2025aug
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,12 канал HD
 http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
 #EXTINF:-1 ,1HD
@@ -1351,7 +1351,7 @@ http://moobl.ru/hls/NTV_pravo.m3u8
 http://moobl.ru/hls/NTV_serial.m3u8
 #EXTINF:-1 ,ОТР
 http://moobl.ru/hls/OTR.m3u8
-#EXTINF:-1 ,Первый канал
+#EXTINF:-1 ,Первый канал 2025aug
 https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 #EXTINF:-1 ,РБК-ТВ
 http://moobl.ru/hls/RBK.m3u8
