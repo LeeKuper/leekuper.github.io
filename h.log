@@ -1115,12 +1115,12 @@ http://tvoetv.space:8080/tvoetv/index.m3u8
 https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
 #EXTINF:-1 ,ТВЦ 2025apr
 http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8
-#EXTINF:-1 ,ТВЦ HD OTT
-http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/38572/hlsx/pl.m3u8
-#EXTINF:-1 ,ТВЦ International
-https://nl01.spr24.net/1982/mpegts?token=brm93nV8tUcCAN
-#EXTINF:-1 ,ТВЦ OTT nepod
-http://rr2.1ott.net/~1098d6038845939c611b8bc88b340dca860/10/hlsx/pl.m3u8
+#EXTINF:-1,ТВЦ tv.ttk.mx:9009 sep2025
+http://tv.ttk.mx:9009
+#EXTINF:-1,ТВЦ Jalta slow connect sep2025
+http://178.212.71.253:8000/play/10/index.m3u8
+#EXTINF:-1,ТВЦ LNT sep2025
+http://93.125.121.61:8383/play/a029
 #EXTINF:-1 ,ТВЦ s0 rtmp
 rtmp://178.159.112.198//tvc
 #EXTINF:-1 ,ТВЦ s1
