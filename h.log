@@ -1401,10 +1401,10 @@ http://81.177.197.13:8000/play/a004/index.m3u8
 http://hls.k-telecom.org:8081/kt/9/playlist.m3u8
 #EXTINF:-1 ,Пятый канал Lime
 https://mhd116.iptv2022.com/p/F8pq9bsBX-9o6KyV4opNTQ,1708894804/streaming/5kanalott/324/1/tracks-v4a1/mono.m3u8
-#EXTINF:-1 group-title="TEST (VPN)",Первый канал A
-http://s18209.cdn.ngenix.net/hls/CH_R03_1TV/playlist.m3u8
-#EXTINF:-1 group-title="Орбита Плюс",Первый канал B
-https://bkm.beetv.kz/btv/live/hls/000001227.m3u8
+#EXTINF:-1,Первый HD sep2025 tv ttk mx 9093
+http://tv.ttk.mx:9093
+#EXTINF:-1,Первый Канал sep2025 tv ttk mx 9000
+http://tv.ttk.mx:9000
 #EXTINF:-1 group-title="Interhost Communication",ПЕРВЫЙ КАНАЛ HD C
 http://185.37.150.40:8092/Pervi_HD/index.m3u8
 #EXTINF:-1 group-title="Юнионтел",Первый канал D
@@ -1481,7 +1481,7 @@ https://livetv.mylifeisgood.net.ru/channels/5tv.m3u8
 http://194.143.148.28:8080/PerviyHD/mpegts
 #EXTINF:-1,ТВЦ
 https://bkm.beetv.kz/btv/live/hls/000000112.m3u8
-#EXTINF:-1,Первый канал jun2025 178.212
+#EXTINF:-1,Первый канал slow sep2025 178.212
 http://178.212.71.253:8000/play/1/index.m3u8
 #EXTINF:-1,ТВЦ netu2
 http://92.53.64.197:5050/tvc/video.m3u8?token=m3VIth-Rou_bM1
@@ -1565,8 +1565,8 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Первый канал B[720x576]
 http://195.26.83.96:7013/play/12/index.m3u8
-#EXTINF:-1 ,Первый канал D[720x576]
-http://88.85.172.243:7005/play/a00k
+#EXTINF:-1,Первый канал tochka sep2025
+https://streaming.televizor-24-tochka.ru/live/4-req_offset_28000000-req_window_0-1k_v5.m3u8
 #EXTINF:-1 ,Первый канал +56 amono[720x576]
 http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия 1 amono[1920x1080]
