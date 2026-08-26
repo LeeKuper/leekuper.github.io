@@ -1,18 +1,18 @@
 #EXTM3U
-#EXTINF:-1,Россия 1 aug2025 87
-http://87.246.54.249:8085/RTR_Planeta/index.m3u8
-#EXTINF:-1,Россия 1 HD aug2025 178
-http://178.217.72.66:8080/Rossiya_HD/index.m3u8
+#EXTINF:-1,Россия 1 Aug26
+http://31.131.141.195:8000/play/1020/index.m3u8
+#EXTINF:-1,Россия 1 Aug27
+http://185.46.16.239:8000/Rossiya_1
 #EXTINF:-1,Россия 1 HD aug2025 vgtrk
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1,Россия HD api.peers.tv
-http://api.peers.tv/timeshift/russiahd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3NTY1Mzc5MTMsImlhdCI6MTc1NjQ1MTUxMywiY2lkIjo2LCJ1aWQiOjk0MDgxNDMwMywicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTI2MzYsImFkdWx0IjpmYWxzZX0.3ywNQuNZF44sdz5WlOvKZ7xPxyrpuPMwYFZzv3dhgDg&offset=10
-#EXTINF:-1 ,#Ё
-http://cdn-lb.iptv2022.com/p/38CICVczmf8GxXb9Z-N7iw,1672887382/streaming/echannel/324/1/index.m3u8
-#EXTINF:-1,Россия 1 HDdm
-http://dmi3y-tv.ru/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
-#EXTINF:-1 ,12 канал HD
-http://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXTINF:-1,Россия 1 HD vgtrkaug26
+https://live.smotrim.ru/vgtrk/0/russia1-hd/1080p.m3u8
+#EXTINF:-1,Россия 1 mpknet
+https://flussonic.mkpnet.ru/tv-d696bdfd6a0e4373/video.m3u8
+#EXTINF:-1,Россия 1 5.188
+http://5.188.221.43:8080/play/rossiya_1
+#EXTINF:-1,Россия 1 HD ttkmx9075
+http://tv.ttk.mx:9075
 #EXTINF:-1 ,1HD
 http://91.247.68.229:8000/play/1HD/index.m3u8
 #EXTINF:-1 ,2x2
@@ -1071,8 +1071,8 @@ http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
 #EXTINF:-1 ,Соловьев_pomt Agronet
 http://195.26.83.96:7029/play/a003
-#EXTINF:-1 ,Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 ,Соловьев SmotrAug26
+https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 ,Спортивный HD
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 ,Спортивный HD
