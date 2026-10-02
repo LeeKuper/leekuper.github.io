@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,Россия 1 Aug26
 http://31.131.141.195:8000/play/1020/index.m3u8
 #EXTINF:-1,Россия 1 Aug27
@@ -1578,15 +1579,19 @@ https://player.smotrim.ru/iframe/stream/live_id/2961?43e=4.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 #EXTINF:-1 ,11 канал (Пенза)
 http://85.234.33.64/stream/c11.m3u8
-#EXTINF:-1 ,ПервыйHDedge4
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 ,ПервыйHDedge2
-https://edge2.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 ,ПервыйHDedge3
-https://edge3.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 ,ПервыйHD194143
-http://194.143.148.28:8080/PerviyHD/index.m3u8
+#EXTINF:-1 ,Первый HD ttkmx9093
+http://tv.ttk.mx:9093
+#EXTINF:-1 ,Первый канал 185
+http://185.195.184.30:8000/play/a0ib/index.m3u8
+#EXTINF:-1 ,Первый канал 195
+http://195.64.140.147:10001/991
+#EXTINF:-1 ,Первый канал mkpnet
+https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
+#EXTINF:-1 ,Первый канал 5_188
+http://5.188.221.43:8080/play/ort
+#EXTINF:-1 ,Первый Канал ttkmx9000
+http://tv.ttk.mx:9000
+#EXTINF:-1 ,ПЕРВЫЙ КАНАЛ 31.131
+http://31.131.141.195:8000/play/1010/index.m3u8
 #EXTINF:-1 ,MatchFutbol1HD
 http://194.143.148.28:8080/MatchFutbol1/mpegts
-#EXTINF:-1 ,Moja Planeta (EDTV 576p)
-http://194.143.148.28:8080/Nauka20/mpegts
