@@ -849,22 +849,22 @@ http://176.74.80.162:8099/HCT/index.m3u8
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 #EXTINF:-1,НТВ feb25_3 185 23
 http://185.23.80.28:8080/NTV/index.m3u8?token=test
-#EXTINF:-1,НТВ feb25_4 92 53
-http://92.53.64.197:5050/NTV/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1,НТВ feb25_5 uspeh
-http://live.admuspeh.my/8003/index.m3u8?token=pE6pxgAtfZdZmnLx
-#EXTINF:-1,НТВ feb25_6 ttk
+#EXTINF:-1 ,НТВ NN1
+http://195.64.140.147:10004/994
+#EXTINF:-1 ,НТВ NN2
+http://185.46.16.239:8000/NTV
+#EXTINF:-1 ,НТВ NN3
+https://flussonic.mkpnet.ru/tv-1bc5d712ea5ace74/video.m3u8
+#EXTINF:-1 ,НТВ NN4
+https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ NN5
 http://tv.ttk.mx:9003
-#EXTINF:-1 ,НТВ +2
-http://cdn.ntv.ru/ntv2_sd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,НТВ HD A4 bes S
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,НТВ HD A1
-http://persik.by/stream/1832/161161/10726.m3u8
-#EXTINF:-1 ,НТВ HD A2
-http://mfe01.cliptv.az/dash/HTB_HDdhh020500.ism/playlist.mpd
-#EXTINF:-1 ,НТВ HD A3
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,НТВ NN6
+http://5.188.221.43:8080/play/ntv
+#EXTINF:-1 ,НТВ HD NN7
+http://185.76.10.53:8080/srv5/ntv_hd/tracks-v1a1/mono.m3u8?cid=144&did=5366158&m=1&rid=24397&token=2022b6576a65c40ede42a7d4941b5471
+#EXTINF:-1 ,НТВ HD NN8
+http://tv.ttk.mx:9127
 #EXTINF:-1 ,НТВ HD A4 kitch
 https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 ,НТВ HD A5 rtmp
