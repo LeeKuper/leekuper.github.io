@@ -1066,10 +1066,10 @@ https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-02.smil/tracks-v
 https://live-sovsec.cdnvideo.ru/sovsec/sovsec.smil/playlist.m3u8
 #EXTINF:-1,Соловьев Live dmpt2
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVE.m3u8
-#EXTINF:-1,Соловьев Live HD
+#EXTINF:-1,Соловьев Live HD dmpt22
 http://dmitry-tv.ddns.net/hls/smotrim/CH_SOLOVIEVLIVEHD.m3u8
-#EXTINF:-1 ,Соловьев_pomt Agronet
-http://195.26.83.96:7029/play/a003
+#EXTINF:-1 ,Соловьев rutubehub
+https://bl.rutube.ru/livestream/c9b87c0b00cfff9b37f95b9c8e4eed42/index.m3u8?s=hD6az2nUNtZ-lVgO7FIb_g&e=2094088070&scheme=https
 #EXTINF:-1 ,Соловьев SmotrAug26
 https://stream.smotrim.ru/hls/solovievlive/playlist_6.m3u8
 #EXTINF:-1 ,Спортивный HD
@@ -1564,10 +1564,10 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
 #EXTINF:-1 ,Первый канал B[720x576]
 http://195.26.83.96:7013/play/12/index.m3u8
-#EXTINF:-1,Первый канал tochka sep2025
-https://streaming.televizor-24-tochka.ru/live/4-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 ,Первый канал +56 amono[720x576]
-http://stream02.vnet.am/PerviyKanal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Первый канал PP1
+http://195.64.140.147:10001/991
+#EXTINF:-1 ,Первый канал PP2
+https://flussonic.mkpnet.ru/tv-4f9598ab5f91dca4/video.m3u8
 #EXTINF:-1 ,Россия 1 amono[1920x1080]
 http://stream02.vnet.am/Rossia1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Россия 1 A[1920x1080]
@@ -1580,8 +1580,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://85.234.33.64/stream/c11.m3u8
 #EXTINF:-1 ,Первый HD ttkmx9093
 http://tv.ttk.mx:9093
-#EXTINF:-1 ,Первый канал 185
-http://185.195.184.30:8000/play/a0ib/index.m3u8
+#EXTINF:-1 ,Первый канал PP3
+http://5.188.221.43:8080/play/ort
 #EXTINF:-1 ,Первый канал 195
 http://195.64.140.147:10001/991
 #EXTINF:-1 ,Первый канал mkpnet
